@@ -1,14 +1,15 @@
-# [Your Name] - Data Analysis Portfolio
+# Joël KODJO - Portfolio d'analyste de données
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Ce portfolio a pour objectif de centraliser et de mettre en valeur mes compétences techniques ainsi que ma capacité à transformer des données brutes en informations stratégiques.
 
-## About This Portfolio Template
+## Présentation de ce portfolio
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+Ce portfolio vise à démontrer des compétences en :
+
+- Visualisation et valorisation des données
+- Modélisation et analyse des données
+- Création de tableaux de bord interactifs et professionnels
+- Transformer des données complexes en informations exploitables
 
 ## 🚀 Projects
 
@@ -28,10 +29,10 @@ This template is set up to showcase your best work. You can easily customize the
 
 Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+- **Visualisation des données**: Power BI, Tableau, Matplotlib, etc.
+- **Analyse de données**: SQL, R, Excel, Stata etc.
+- **Modélisation des données**: Power Query, DAX, etc.
+- **Collecte de données**: Googleforms, Microsoftforms, koboToolbox, etc.
 
 ## 💡 How to Use This Template
 
