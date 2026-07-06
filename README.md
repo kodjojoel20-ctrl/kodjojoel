@@ -11,25 +11,23 @@ Ce portfolio vise à démontrer des compétences en :
 - Création de tableaux de bord interactifs et professionnels
 - Transformer des données complexes en informations exploitables
 
-## 🚀 Projects
+## 🚀 Projets
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+Elle en valeur mes differents travaux realisés.
 
-### Project Title One
+### Projet Un
 *A brief description of your project, the tools used, and the key insights derived.*
 
-### Project Title Two
+### Projet Deux
 *A brief description of your project, the tools used, and the key insights derived.*
 
-### Project Title Three
+### Project Trois
 *A brief description of your project, the tools used, and the key insights derived.*
 
 
-## 🛠️ Skills
+## 🛠️Compétences
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
-
-- **Visualisation des données**: Power BI, Tableau, Matplotlib, etc.
+- **Visualisation des données**: Power BI, Excel, Stata, R, etc.
 - **Analyse de données**: SQL, R, Excel, Stata etc.
 - **Modélisation des données**: Power Query, DAX, etc.
 - **Collecte de données**: Googleforms, Microsoftforms, koboToolbox, etc.
