@@ -1,4 +1,4 @@
-# Joël KODJO - Portfolio d'analyste de données
+# Joël KODJO -  Data Analyst
 
 Ce portfolio a pour objectif de centraliser et de mettre en valeur mes compétences techniques ainsi que ma capacité à transformer des données brutes en informations stratégiques.
 
